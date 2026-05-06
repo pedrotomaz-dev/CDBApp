@@ -35,7 +35,7 @@ Este projeto implementa um calculador de CDB contendo o Backend (.NET 8 Web API 
 ## Como Testar a Aplicação
 
 ### API:
-Execute os testes automatizados da solução toda:
+Na pasta raiz do projeto, execute os testes automatizados da solução toda:
 ```bash
 dotnet test
 ```

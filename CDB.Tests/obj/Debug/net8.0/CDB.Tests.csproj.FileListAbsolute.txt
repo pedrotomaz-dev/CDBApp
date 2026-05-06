@@ -117,3 +117,4 @@ C:\PROJETOS\Teste\CDB.Tests\obj\Debug\net8.0\refint\CDB.Tests.dll
 C:\PROJETOS\Teste\CDB.Tests\obj\Debug\net8.0\CDB.Tests.pdb
 C:\PROJETOS\Teste\CDB.Tests\obj\Debug\net8.0\CDB.Tests.genruntimeconfig.cache
 C:\PROJETOS\Teste\CDB.Tests\obj\Debug\net8.0\ref\CDB.Tests.dll
+C:\PROJETOS\Teste\CDB.Tests\obj\Debug\net8.0\CDB.Tests.sourcelink.json

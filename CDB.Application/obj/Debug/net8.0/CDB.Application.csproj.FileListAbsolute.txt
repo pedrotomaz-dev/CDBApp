@@ -13,3 +13,4 @@ C:\PROJETOS\Teste\CDB.Application\obj\Debug\net8.0\CDB.Application.dll
 C:\PROJETOS\Teste\CDB.Application\obj\Debug\net8.0\refint\CDB.Application.dll
 C:\PROJETOS\Teste\CDB.Application\obj\Debug\net8.0\CDB.Application.pdb
 C:\PROJETOS\Teste\CDB.Application\obj\Debug\net8.0\ref\CDB.Application.dll
+C:\PROJETOS\Teste\CDB.Application\obj\Debug\net8.0\CDB.Application.sourcelink.json

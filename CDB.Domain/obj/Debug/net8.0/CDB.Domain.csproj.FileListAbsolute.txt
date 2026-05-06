@@ -9,3 +9,4 @@ C:\PROJETOS\Teste\CDB.Domain\obj\Debug\net8.0\CDB.Domain.dll
 C:\PROJETOS\Teste\CDB.Domain\obj\Debug\net8.0\refint\CDB.Domain.dll
 C:\PROJETOS\Teste\CDB.Domain\obj\Debug\net8.0\CDB.Domain.pdb
 C:\PROJETOS\Teste\CDB.Domain\obj\Debug\net8.0\ref\CDB.Domain.dll
+C:\PROJETOS\Teste\CDB.Domain\obj\Debug\net8.0\CDB.Domain.sourcelink.json
