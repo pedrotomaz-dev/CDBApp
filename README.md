@@ -19,7 +19,7 @@ Este projeto implementa um calculador de CDB contendo o Backend (.NET 8 Web API 
    dotnet run --project CDB.Api
    ```
    > [!TIP]
-   > Você pode acessar o **Swagger** para testar direto a API na rota `http://localhost:<porta>/swagger`. Ajuste CORS se rodar na porta 5000/5001.
+   > Você pode acessar o **Swagger** para testar direto a API na rota `https://localhost:7058/swagger`.
 
 ### Frontend (Angular)
 1. Navegue até o diretório `cdb-web`.

@@ -31,7 +31,7 @@ describe('CdbService', () => {
       expect(result).toEqual(mockResponse);
     });
 
-    const req = httpMock.expectOne('http://localhost:5000/api/cdb/calculate');
+    const req = httpMock.expectOne('https://localhost:7058/api/cdb/calculate');
     expect(req.request.method).toBe('POST');
     req.flush(mockResponse);
   });
