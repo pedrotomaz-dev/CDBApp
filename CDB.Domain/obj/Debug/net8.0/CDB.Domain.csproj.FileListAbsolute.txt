@@ -1,0 +1,11 @@
+C:\PROJETOS\Teste\CDB.Domain\bin\Debug\net8.0\CDB.Domain.deps.json
+C:\PROJETOS\Teste\CDB.Domain\bin\Debug\net8.0\CDB.Domain.dll
+C:\PROJETOS\Teste\CDB.Domain\bin\Debug\net8.0\CDB.Domain.pdb
+C:\PROJETOS\Teste\CDB.Domain\obj\Debug\net8.0\CDB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\Teste\CDB.Domain\obj\Debug\net8.0\CDB.Domain.AssemblyInfoInputs.cache
+C:\PROJETOS\Teste\CDB.Domain\obj\Debug\net8.0\CDB.Domain.AssemblyInfo.cs
+C:\PROJETOS\Teste\CDB.Domain\obj\Debug\net8.0\CDB.Domain.csproj.CoreCompileInputs.cache
+C:\PROJETOS\Teste\CDB.Domain\obj\Debug\net8.0\CDB.Domain.dll
+C:\PROJETOS\Teste\CDB.Domain\obj\Debug\net8.0\refint\CDB.Domain.dll
+C:\PROJETOS\Teste\CDB.Domain\obj\Debug\net8.0\CDB.Domain.pdb
+C:\PROJETOS\Teste\CDB.Domain\obj\Debug\net8.0\ref\CDB.Domain.dll

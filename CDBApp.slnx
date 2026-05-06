@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CDB.Api/CDB.Api.csproj" />
+  <Project Path="CDB.Application/CDB.Application.csproj" />
+  <Project Path="CDB.Domain/CDB.Domain.csproj" />
+  <Project Path="CDB.Tests/CDB.Tests.csproj" />
+</Solution>

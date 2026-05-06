@@ -1,0 +1,15 @@
+C:\PROJETOS\Teste\CDB.Application\bin\Debug\net8.0\CDB.Application.deps.json
+C:\PROJETOS\Teste\CDB.Application\bin\Debug\net8.0\CDB.Application.dll
+C:\PROJETOS\Teste\CDB.Application\bin\Debug\net8.0\CDB.Application.pdb
+C:\PROJETOS\Teste\CDB.Application\bin\Debug\net8.0\CDB.Domain.dll
+C:\PROJETOS\Teste\CDB.Application\bin\Debug\net8.0\CDB.Domain.pdb
+C:\PROJETOS\Teste\CDB.Application\obj\Debug\net8.0\CDB.Application.csproj.AssemblyReference.cache
+C:\PROJETOS\Teste\CDB.Application\obj\Debug\net8.0\CDB.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\Teste\CDB.Application\obj\Debug\net8.0\CDB.Application.AssemblyInfoInputs.cache
+C:\PROJETOS\Teste\CDB.Application\obj\Debug\net8.0\CDB.Application.AssemblyInfo.cs
+C:\PROJETOS\Teste\CDB.Application\obj\Debug\net8.0\CDB.Application.csproj.CoreCompileInputs.cache
+C:\PROJETOS\Teste\CDB.Application\obj\Debug\net8.0\CDB.Appl.E2625E06.Up2Date
+C:\PROJETOS\Teste\CDB.Application\obj\Debug\net8.0\CDB.Application.dll
+C:\PROJETOS\Teste\CDB.Application\obj\Debug\net8.0\refint\CDB.Application.dll
+C:\PROJETOS\Teste\CDB.Application\obj\Debug\net8.0\CDB.Application.pdb
+C:\PROJETOS\Teste\CDB.Application\obj\Debug\net8.0\ref\CDB.Application.dll
