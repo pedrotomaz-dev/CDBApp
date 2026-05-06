@@ -16,7 +16,7 @@ export interface CdbCalculationResult {
   providedIn: 'root'
 })
 export class CdbService {
-  private readonly apiUrl = 'http://localhost:5000/api/cdb/calculate';
+  private readonly apiUrl = 'https://localhost:7058/api/cdb/calculate';  
 
   constructor(private http: HttpClient) {}
 
