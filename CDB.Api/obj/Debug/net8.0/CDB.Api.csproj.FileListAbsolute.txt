@@ -48,3 +48,4 @@ C:\PROJETOS\Teste\CDB.Api\obj\Debug\net8.0\CDB.Api.pdb
 C:\PROJETOS\Teste\CDB.Api\obj\Debug\net8.0\CDB.Api.genruntimeconfig.cache
 C:\PROJETOS\Teste\CDB.Api\obj\Debug\net8.0\ref\CDB.Api.dll
 C:\PROJETOS\Teste\CDB.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\PROJETOS\Teste\CDB.Api\obj\Debug\net8.0\CDB.Api.sourcelink.json
